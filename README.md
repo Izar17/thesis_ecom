@@ -12,4 +12,5 @@ run command : php artisan key:generate <br>
 run command : npm install && npm run dev <br>
  <br>
 Open new terminal <br>
+run command : php artisan storage:link <br>
 run command : php artisan serve
