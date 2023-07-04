@@ -1,15 +1,15 @@
 # thesis ecom
-Create databse caserole2_db
+Create databse caserole2_db <br>
 Import database schema you can see the sql file on this path: caserole\database\caserole2_db.sql
-
-
-run command : cp .env.example .env
-run command : check database details in .env
-
-Install dependencies
-run command : composer update
-run command : php artisan key:generate
-run command : npm install && npm run dev
-
-Open new terminal
+ <br>
+ <br>
+run command : cp .env.example .env <br>
+run command : check database details in .env <br>
+ <br>
+Install dependencies <br>
+run command : composer update <br>
+run command : php artisan key:generate <br>
+run command : npm install && npm run dev <br>
+ <br>
+Open new terminal <br>
 run command : php artisan serve
